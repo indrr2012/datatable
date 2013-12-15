@@ -1,0 +1,354 @@
+input.bs-input-fullwidth {
+    width: 900px;
+}
+
+legend {
+    color: #D14836
+}
+
+span.cke_skin_kama {
+    margin-top: 20px;
+}
+
+div#create-email-controls {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.MultiFile-list {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    min-height: 30px;
+
+}
+
+.MultiFile-label {
+    border-radius: 4px;
+    background-color: #006DCC;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#08C), to(#04C));
+    background-image: -webkit-linear-gradient(top, #08C, #04C);
+    background-image: -o-linear-gradient(top, #08C, #04C);
+    background-image: linear-gradient(to bottom, #08C, #04C);
+    background-image: -moz-linear-gradient(top, #08C, #04C);
+    background-repeat: repeat-x;
+    border-color: #04C #04C #002A80;
+    color: white;
+    display: block;
+    float: left;
+    padding: 5px;
+    margin: 3px;
+}
+
+a.MultiFile-remove,
+a.MultiFile-remove:visited {
+    color: red;
+    font-size: 18px;
+}
+
+.file-selector {
+    border: 1px solid #e5e5e5;
+    background: #efefef;
+    padding: 10px;
+}
+
+label.error {
+    padding: 10px;
+    border: 1px solid red;
+    background: pink;
+}
+
+#project_files {
+    border: 1px solid #ccc;
+    min-height: 30px;
+    overflow: hidden;
+}
+
+.prjfile-attach {
+    color: white;
+    border-radius: 4px;
+    background-color: #006DCC;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#08C), to(#04C));
+    background-image: -webkit-linear-gradient(top, #08C, #04C);
+    background-image: -o-linear-gradient(top, #08C, #04C);
+    background-image: linear-gradient(to bottom, #08C, #04C);
+    background-image: -moz-linear-gradient(top, #08C, #04C);
+    background-repeat: repeat-x;
+    border-color: #04C #04C #002A80;
+    float: left;
+    padding: 5px;
+    margin: 4px;
+}
+
+.prjfile-remove {
+    color: red;
+    cursor: pointer;
+}
+
+.prjfile-input {
+    border: none;
+    background-color: transparent
+}
+
+.add-on {
+    margin-top: 5px;
+}
+
+/* EMAIL OVERVIEW */
+
+table#email_overview .btn-group {
+    text-align: center;
+}
+
+.btn.btn-table {
+    padding: 1px 5px 1px;
+    font-size: 7px;
+    margin-right: -3px;
+}
+
+table#email_overview td {
+    font-size: 14px;
+}
+
+tr.unread {
+    font-weight: bold;
+}
+
+td.name {
+    width: 220px;
+}
+
+td.subject {
+    width: 420px;
+}
+
+td.date {
+    width: 130px;
+    text-align: center;
+}
+
+td.actions {
+    width: 170px;
+}
+
+/* Create Email Reply CSS */
+ul#attachments li {
+    display: inline;
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.side-menu {
+    font-size: 12px;
+}
+
+.side-menu li {
+
+}
+
+.widget-header-first {
+    margin-top: 2em;
+}
+
+.shortcuts .shortcut {
+    display: inline-block;
+    text-decoration: none;
+    vertical-align: top;
+    width: 32%;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+.shortcuts {
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+.shortcut-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.shortcut-label {
+    text-align: center;
+    float: left;
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.
+
+div#content {
+    min-height: 800px;
+}
+
+.row-first {
+    margin-top: 10px;
+}
+
+.row-last
+{
+    margin-bottom: 20px;
+}
+
+#reset-password {
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px rgba(1, 1, 1, 0.2);
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.validation-alert {
+    padding: 8px 35px 8px 14px;
+    color: #C09853;
+    margin-top: 5px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    background-color: #FCF8E3;
+    border: 1px solid #FBEED5;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.validation-alert-danger, .validation-alert-error {
+    color: #B94A48;
+    background-color: #F2DEDE;
+    border-color: #EED3D7;
+}
+
+#non-default
+{
+    display: none;
+}
+
+.validation-alert-error-above
+{
+    margin-bottom: 5px;
+}
+
+.sms-options
+{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: white;
+    box-shadow: 2px 2px 5px rgba(1,1,1,0.2);
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.table-first
+{
+    margin-top: 20px;
+}
+
+td.edit-technology
+{
+    width: 180px;
+}
+
+legend
+{
+
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.control-label
+{
+    margin-top: 10px;
+}
+
+input.error-highlight
+{
+    border: 1px solid red;!important
+}
+
+.highlight
+{
+    color: #D14836;
+    border-bottom: 1px solid #ccc;
+}
+
+.projectstatustable
+{
+    padding:0px 0px 0px 0px !important;
+    font-size: 11px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.projectstatustable th
+{
+    padding:0px 0px 0px 0px !important;
+}
+
+.projectstatustable hr
+{
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+}
+
+
+.pi-grid {
+    padding-bottom: 15px;
+}
+
+.pi-state {
+
+    margin-left: 3px;
+    width: 20px !important;
+    border: 0px;
+    float: left;
+    text-align: center;
+}
+
+.pi-num {
+    margin-left: 3px;
+    width: 20px !important;
+    height: 20px;
+    border: 0px;
+    float: left;
+    text-align: center;
+    background-color: yellow;
+}
+.pi-bnum {
+    margin-left: 3px;
+    width: 20px !important;
+    height: 20px;
+    border: 0px;
+    float: left;
+    text-align: center;
+
+}
+
+.pi-name {
+    margin-left: 10px;
+    width: 150px !important;
+    border: 0px;
+    float: left;
+}
+
+
+.popup-container {
+    width:780px;
+}
+
+
+.pinnavbtn {
+    margin-right:5px;
+}
+
+.action-button {
+    margin-bottom:7px;
+}
